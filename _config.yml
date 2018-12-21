@@ -1,0 +1,44 @@
+# Site settings
+name: Yohann Ciurlik
+description: "Yohann Ciurlik"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  spawnrider
+#codepen_username: your_codepen_username_goes_here
+#facebook_username: your_facebook_username_goes_here
+twitter_username: spawnrider
+linkedin_username: your_linked_in_username_goes_here
+flickr_username: your_flickr_username_goes_here
+steam_username: your_steam_username_goes_here
+soundcloud_username:  your_soundcloud_username_goes_here
+stack_of_username: your_stack_overflow_account_id_number_goes_here
+reddit_username: your_reddit_username_goes_here
+medium_username:  spawnrider
+blog_url: "https://spawnrider.net"
+email: yohann.ciurlik@gmail.com
+public_key_url: "https://keybase.io/spawnrider/pgp_keys.asc"
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars2.githubusercontent.com/u/107427"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "https://i1.wp.com/www.spawnrider.net/wp-content/uploads/2017/08/cropped-favico_spawnrider.net_-2.png?fit=32%2C32&ssl=1"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
