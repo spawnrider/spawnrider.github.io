@@ -7,12 +7,11 @@
 
 
 ## See it in action
-<a href="https://dashingcode.github.io/front-cover/">Live demo page</a>
+<a href="https://spawnrider.github.io/">Live demo page</a>
 
 ## Credits
-The background image that was used as an example comes from Tom Hall.
-You can find it on <a href="https://flic.kr/p/pqEPBb">Flickr</a>.
-It's licensed under Creative-Commons.
+The background image comes from Patrick Lindenberg.
+You can find it on <a href="https://unsplash.com/photos/1iVKwElWrPA">Unsplash</a>.
 
 This theme makes use of the amazing <a href="http://fontawesome.io/">Font Awesome</a> icons.
 
